@@ -1,0 +1,12 @@
+{quote: `You will face many defeats in life, but never let yourself be defeated.` , person: `Maya Angelou`},
+{quote: `Go confidently in the direction of your dreams! Live the life you've imagined.` , person: `Henry David Thoreau`},
+{quote: `In the end, it's not the years in your life that count. It's the life in your years.` , person: `Abraham Lincoln`},
+{quote: `Never let the fear of striking out keep you from playing the game.` , person: `Babe Ruth`},
+{quote: `In this life we cannot do great things. We can only do small things with great love.` , person: `Mother Teresa`},
+{quote: `Many of life's failures are people who did not realize how close they were to success when they gave up.` , person: `Thomas A. Edison`},
+{quote: `You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.` , person: `Dr. Seuss`}
+{quote: `Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.` , person: `Martin Luther King Jr`}
+{quote: `Well done is better than well said.` , person: `Benjamin Franklin`}
+{quote: `Do one thing every day that scares you.` , person: `Eleanor Roosevelt`}
+{quote: `Be yourself; everyone else is already taken.` , person: `Oscar Wilde`}
+{quote: `It is during our darkest moments that we must focus to see the light.` , person: `Aristotle`}
